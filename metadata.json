@@ -1,0 +1,6 @@
+{
+  "name": "Realizze Implantes - Dra. Nathália & Dr. Vonil",
+  "description": "Landing page de alta conversão para agendamento da primeira consulta gratuita de Implantes e Protocolo em Poços de Caldas com Dra. Nathália e Dr. Vonil.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
